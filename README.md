@@ -2,8 +2,6 @@
 ### Objective
 Task is to use the feature-level method to combine the facial expression features and audio features. A multi-modal emotion recognition system is constructed to recognize happy versus sadness facial expressions (binary-class problem) by using a classifier training and testing structure.
 
-The original data is based on lab1 and lab2, from ten actors acting happy and sadness behaviors.
-
 ### Task 1: 
 Subspace-based feature fusion method: In this case, z-score normalization is utilized. Please read “Fusing Gabor and LBP feature sets for kernel-based face recognition” and learn how to use subspace-based feature fusion method for multi-modal system.
 
